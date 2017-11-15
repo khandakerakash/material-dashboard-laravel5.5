@@ -70,6 +70,8 @@
             </div>
         </div>
     </div>
+    <hr>
+    @include('includes.login')
 @endsection
 
 @section('your-script')

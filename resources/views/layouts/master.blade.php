@@ -55,16 +55,16 @@
     <!--  Notifications Plugin    -->
     <script src="{{ asset('vendor/bootstrap/js/bootstrap-notify.js') }}"></script>
     <!--  Google Maps Plugin    -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3LzA1Foy4MrDYKrl1DWjx_8yuQ_bQioo"></script>
     <!-- Material Dashboard javascript methods -->
     <script src="{{ asset('vendor/material/js/material-dashboard.js?v=1.2.0') }}"></script>
     <!-- Material Dashboard DEMO methods, don't include it in your project! -->
     <script src="{{ asset('js/custom-scripts.js') }}"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            demo.initDashboardPageCharts();
-        });
-    </script>
+    {{--<script type="text/javascript">--}}
+        {{--$(document).ready(function() {--}}
+            {{--demo.initDashboardPageCharts();--}}
+        {{--});--}}
+    {{--</script>--}}
     @yield('your-script')
 </body>
 </html>

@@ -41,11 +41,18 @@
                         </li>
                     </ul>
                 </li>
-                <li>
-                    <a href="#pablo" class="dropdown-toggle" data-toggle="dropdown">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="material-icons">person</i>
                         <p class="hidden-lg hidden-md">Profile</p>
+                        <b class="caret hidden-xs hidden-sm"></b>
                     </a>
+                    <ul class="dropdown-menu dropdown-menu-right">
+                        <li class="dropdown-header">You can logout here!</li>
+                        <li>
+                            <a href="#">Logout</a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
             <form class="navbar-form navbar-right" role="search">
