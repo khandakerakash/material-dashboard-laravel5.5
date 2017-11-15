@@ -1,7 +1,7 @@
 <div class="sidebar" data-color="purple" data-image="{{ asset('img/sidebar-1.jpg') }}">
     <div class="logo">
-        <a href="https://www.tutexp.com/" class="simple-text">
-            TUTEXP SOFTWARE
+        <a href="#" class="simple-text">
+            Dashboard Application
         </a>
     </div>
     <div class="sidebar-wrapper">
