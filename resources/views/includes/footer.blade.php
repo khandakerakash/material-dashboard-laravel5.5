@@ -29,7 +29,7 @@
             <script>
                 document.write(new Date().getFullYear())
             </script>
-            <a href="https://www.tutexp.com/">Tutexp Software</a>
+            <a href="#">Dashboard</a>
         </p>
     </div>
 </footer>
