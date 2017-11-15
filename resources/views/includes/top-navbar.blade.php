@@ -50,7 +50,7 @@
                     <ul class="dropdown-menu dropdown-menu-right">
                         <li class="dropdown-header">You can logout here!</li>
                         <li>
-                            <a href="#">Logout</a>
+                            <a href="#"><i class="fa fa-sign-out"></i> Logout</a>
                         </li>
                     </ul>
                 </li>
